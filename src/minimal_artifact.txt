@@ -1,0 +1,2 @@
+DonJulioSuper - Artefacto mínimo versionado (Semana 3)
+Este archivo representa un artefacto controlado dentro de /src para el paquete auditable.
