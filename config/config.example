@@ -1,0 +1,10 @@
+# Config ejemplo (NO real)
+APP_NAME=DonJulioSuper
+ENV=dev
+LOG_LEVEL=info
+
+# Seguridad (simulación 2FA admin)
+ADMIN_2FA_ENABLED=false
+OTP_PROVIDER=example
+
+# No subir credenciales reales.
